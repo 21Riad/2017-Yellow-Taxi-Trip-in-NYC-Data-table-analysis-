@@ -19,11 +19,11 @@ Refer to [NYC taxi dataset](https://data.cityofnewyork.us/Transportation/2017-Ye
 
 A Random Forest and XGB models were used in this project, scores of both models are below.
 
-Image.
+![text1](images/scores.PNG)
 
 Also feature importances are shown below.
 
-Image.
+![text2](images/features.PNG)
 
 ##Conclusion
 
