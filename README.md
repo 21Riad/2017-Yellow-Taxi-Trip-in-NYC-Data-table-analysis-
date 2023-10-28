@@ -25,6 +25,6 @@ Also feature importances are shown below.
 
 ![text2](images/features.PNG)
 
-##Conclusion
+## Conclusion
 
 Both of the employed models served the purpose of identifying key factors that influence whether a client chooses to leave a tip or not. These findings can provide valuable insights for the company, allowing them to concentrate their efforts on enhancing the factors that increase the likelihood of a client leaving a gratuity.
